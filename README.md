@@ -20,6 +20,6 @@
 <p align="center">
 <a>
   <img height="180em" src="https://github-stats-yo-karmas-projects.vercel.app/api?username=Yo-Karma&show_icons=true&include_all_commits=true&count_private=true&theme=dracula"/>
-  <img height="180em" src="https://github-stats-yo-karmas-projects.vercel.app/api/top-langs/?username=Yo-Karma&layout=compact&theme=dracula&hide=RTF"/>
+  <img height="180em" src="https://github-stats-yo-karmas-projects.vercel.app/api/top-langs/?username=Yo-Karma&layout=compact&theme=dracula&hide=RTF,LUA"/>
 </a>
 </p>
