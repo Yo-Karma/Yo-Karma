@@ -40,7 +40,6 @@
     <a target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-%2312100E.svg?logo=python&style=for-the-badge"/></a> 
     <a target="_blank"><img alt="C" src="https://img.shields.io/badge/C-%2312100E.svg?logo=c&style=for-the-badge"/></a> 
     <a target="_blank"><img alt="Java" src="https://img.shields.io/badge/Java-%2312100E.svg?logo=java&style=for-the-badge"/></a> 
-    <a target="_blank"><img alt="SCE" src="https://img.shields.io/badge/Java-%2312100E.svg?logo=java&style=for-the-badge"/></a> 
   </a>
 </p>
 
