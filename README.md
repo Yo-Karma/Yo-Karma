@@ -33,7 +33,7 @@
   <a>
     <a target="_blank"><img alt="JS" src="https://img.shields.io/badge/Javascript-%2312100E.svg?logo=javascript&style=for-the-badge"/></a>
     <a target="_blank"><img alt="TS" src="https://img.shields.io/badge/Typescript-%2312100E.svg?logo=typescript&style=for-the-badge"/></a>
-    <a target="_blank"><img alt="C#" src="https://img.shields.io/badge/CSharp-%2312100E.svg?logo=csharp&style=for-the-badge"/></a>
+    <a target="_blank"><img alt="C#" src="https://img.shields.io/badge/CSharp-%2312100E.svg?logo=csharp&style=for-the-badge&logoColor=purple"/></a>
     <a target="_blank"><img alt="LUA" src="https://img.shields.io/badge/LUA-%2312100E.svg?logo=lua&style=for-the-badge"/></a>
     <a target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-%2312100E.svg?logo=python&style=for-the-badge"/></a> 
     <a target="_blank"><img alt="C" src="https://img.shields.io/badge/C-%2312100E.svg?logo=c&style=for-the-badge"/></a> 
