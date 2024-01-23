@@ -10,6 +10,7 @@
   
 </div>
 
+<!---
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2>📈 Github Stats</h2></summary>
@@ -22,6 +23,7 @@
     <img height="180em" src="https://github-stats-yo-karmas-projects.vercel.app/api/top-langs/?username=Yo-Karma&layout=compact&theme=github_dark&hide=RTF,LUA&hide_border=true"/>
   </a>
 </p>
+-->
 
 <div id="user-content-toc">
   <ul align="center">
