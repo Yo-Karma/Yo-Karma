@@ -1,16 +1,15 @@
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1>Hi 👋</h1></summary>
+    <summary><image src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f680.gif" width=200 height=200></image></summary>
   </ul>
 </div>
-
+<!--
 <div align="center">  
-  
+ 
   ![](https://komarev.com/ghpvc/?username=Yo-Karma&style=for-the-badge&color=grey)
   
 </div>
 
-<!---
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2>📈 Github Stats</h2></summary>
@@ -23,7 +22,6 @@
     <img height="180em" src="https://github-stats-yo-karmas-projects.vercel.app/api/top-langs/?username=Yo-Karma&layout=compact&theme=github_dark&hide=RTF,LUA&hide_border=true"/>
   </a>
 </p>
--->
 
 <div id="user-content-toc">
   <ul align="center">
@@ -61,5 +59,5 @@
     <a target="_blank"><img alt="Linux" src="https://img.shields.io/badge/Linux-%2312100E.svg?logo=Linux&style=for-the-badge"/></a>    
   </a>
 </p>
-
+-->
 
